@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html,body,#container{
+  height:100%;
+  width:100%;
+}
+
+#container{
+    display:flex;
+    align-items: center;/*Y-axis*/
+    justify-content: center;/*X-axis*/
+}
+
+img{
+    height:100px;
+    width:100px;
+    border-radius:50px;
+    object-fit:cover;
+    position:absolute;
+    margin-left: 50%;
+    margin-top: 16%;
+    transform:translate(-50%,-50%);
+}
+
+#box{
+    width:500px;
+    height:200px;
+    border-radius:10px;
+    padding:70px;
+    background-color: blueviolet;
+    color:white;
+    box-shadow:  0 4px 8px rgba(0, 0, 0, 0.3);/*horizontal vertical blur-radius color */
+}
+
+.username{
+    margin-top:20px;
+}
