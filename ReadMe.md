@@ -1,17 +1,18 @@
 # HTML Concepts Used
-__<!DOCTYPE html>__ – Declares the document type and version of HTML (HTML5).<br>
-__<html lang="en">__ – Root element with language attribute set to English.<br>
-__<head>__ – Contains metadata and links to external resources.<br>
-__<meta charset="UTF-8">__ – Sets character encoding to UTF-8.<br>
-__<meta name="viewport">__ – Ensures responsive design on different screen sizes.<br>
-__<title>__ – Sets the browser tab title.<br>
-__<link>__ – Links an external CSS file (style.css).<br>
-__<body>__ – Contains the visible content of the webpage.<br>
-__<img>__ – Embeds an image using an external URL.<br>
-__<div>__ – Used as a container for grouping elements.<br>
-__<p>__ – Defines a paragraph.<br>
-__<h4>__ – Defines a level 4 heading.<br>
-__<script>__ – Links an external JavaScript file (script.js).<br>
+
+__!DOCTYPE html__ – Declares the document type and version of HTML (HTML5).<br>
+__html lang="en"__ – Root element with language attribute set to English.<br>
+__head__ – Contains metadata and links to external resources.<br>
+__meta charset="UTF-8"__ – Sets character encoding to UTF-8.<br>
+__meta name="viewport"__ – Ensures responsive design on different screen sizes.<br>
+__title__ – Sets the browser tab title.<br>
+__link__ – Links an external CSS file (style.css).<br>
+__body__ – Contains the visible content of the webpage.<br>
+__img__ – Embeds an image using an external URL.<br>
+__div__ – Used as a container for grouping elements.<br>
+__p__ – Defines a paragraph.<br>
+__h4__ – Defines a level 4 heading.<br>
+__script__ – Links an external JavaScript file (script.js).<br>
 __id and class Attributes__ – Used to target elements for styling and scripting.
 
 
